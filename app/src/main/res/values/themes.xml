@@ -1,0 +1,46 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MyApplication" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#558B2F</item>
+        <item name="colorPrimaryDark">#1D6E21</item>
+        <item name="colorAccent">@color/black</item>
+
+
+
+
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="TextView">
+        android:fontFamily="@font/volkhov"
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+
+    <style name="TextViewHeader">
+        android:fontFamily="@font/volkhov|bold"
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+
+
+
+
+
+
+    <style name="ShortTextStyle"
+        parent="TextAppearance.AppCompat">
+         android:textStyle="bold"
+        android:fontFamily="volkhov|bold"
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+
+    <style name="LongTextStyle"
+        parent="TextAppearance.AppCompat">
+        android:lineSpacingMultiplier="1.5"
+        android:fontFamily="@font/volkhov"
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>

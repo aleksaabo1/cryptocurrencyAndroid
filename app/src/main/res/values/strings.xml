@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cryptocurrency</string>
+    <string name="favorite">Favorite</string>
+    <string name="Search">Search</string>
+    <string name="news">news</string>
+    <string name="market_capitalization">Market capitalization:</string>
+    <string name="textview">TextView</string>
+    <string name="price">Price: </string>
+    <string name="volume">Volume:</string>
+    <string name="Waiting">Waiting for data</string>
+    <string name="try_again">Try again</string>
+    <string name="cancel">Cancel</string>
+    <string name="noInternet">No internet connection</string>
+    <string name="unable_to_connect_to_internet">Unable to connect to internet</string>
+    <string name="loading">Loading...</string>
+    <string name="error">Something went wrong</string>
+
+    <string name="problems">Wops, we have some problems! Try again Later</string>
+    <string name="connectToInternet">"Please connect to the internet"</string>
+
+</resources>

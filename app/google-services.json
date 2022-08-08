@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "796346602164",
+    "project_id": "cryptocurrency-7d594",
+    "storage_bucket": "cryptocurrency-7d594.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796346602164:android:bf08d0750e719c5f18fde1",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796346602164-uf284090jadqhkapveu7a9ok1v3bl25g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxUJCkOepCPDsU_oJ01c4ux35odFVgia4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796346602164-uf284090jadqhkapveu7a9ok1v3bl25g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
